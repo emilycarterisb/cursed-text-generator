@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-domain-1.com/sitemap.xml
+Sitemap: https://emilycarterisb.github.io/cursed-text-generator/sitemap.xml
